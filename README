@@ -3,7 +3,10 @@ Growl4Rails
  
 Growl4Rails is a javascript component that provides the UI for growl-like notifications in your rails application.
 
-This plugin requires Prototype 1.6 or higher and Scriptaculous 1.7 or higher.
+***
+Only README line changed for fork (using jQuery instead of Prototype):
+This fork of Growl4Rails requires jQuery (I used 1.6).  It also has a dependency (for clazz) on LowPro for jQuery https://github.com/danwrong/low-pro-for-jquery
+***
 
 Installation
 ===============
